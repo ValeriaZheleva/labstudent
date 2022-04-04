@@ -1,0 +1,108 @@
+body
+{
+margin:0;
+padding:0;
+}
+.slider{
+    background-image: url('BgSlider.png');
+    background-size: cover;
+    height: 500px;
+}
+.arrowleft{
+    padding: 200px 0px 0px 0px;
+}
+.arrowright{
+    padding: 200px 0px 0px 230px;
+}
+.ButtonHeader{
+    padding: 120px 0px 0px 100px;
+    color: white;
+}
+.text{
+    padding: 50px 0px 0px 0px;
+}
+
+.mail {
+    /*width: 1880px;*/
+	padding-top: 100px;
+	padding-bottom: 100px;
+	background: #ecf3f8;
+}
+
+.form {
+	margin: 60px auto 0 auto;
+	width: 350px;
+}
+
+.input {
+	width: 100%;
+	height: 47px;
+	margin-bottom: 18px;
+	border: 1px solid #bbbbbb;
+	padding-left: 27px;
+}
+
+.section-title {
+	font-size: 30px;
+	text-align: center;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.btn {
+	width: 220px;
+	height: 55px;
+	color: black;
+	font-size: 16px;
+	font-weight: bold;
+	display: block;
+	text-decoration: none;
+	background-color: #ffd429;
+	padding: 15px 0px;
+	text-align: center;
+	transition: all 0.5s ease;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.btn-form {
+	border: 1px solid #bbbbbb;
+	width: 100%;
+	height: 55px;
+	color: black;	
+	display: block;
+	text-decoration: none;
+	background-color: #ffd429;
+	padding: 15px 0px;
+	text-align: center;
+	transition: all 0.5s ease;
+	cursor: pointer;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.btn:hover{
+    background-color: #edc730;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 1200px)
+{
+
+}
+
+@media screen and (max-width: 992px)
+{
+
+}
+
+@media screen and (max-width: 768px)
+{
+	
+}
+
+@media screen and (max-width: 576px)
+{
+	
+}
